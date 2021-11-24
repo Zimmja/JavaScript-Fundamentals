@@ -1,0 +1,1 @@
+This repository was created with Sigita Zebrauskaite during our introduction to JavaScript Fundamentals by Makers Academy in Week 6. We used this repository to work with jest tests across multiple files.
